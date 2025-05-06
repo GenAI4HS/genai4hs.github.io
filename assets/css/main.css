@@ -1130,7 +1130,7 @@ section,
   height: 60px;
   /* overflow: hidden; */
   border-radius: 50%;
-  float: left;
+  float: center;
   /* margin: 0 15px 0 15px; */
 }
 
@@ -1139,7 +1139,7 @@ section,
   margin-bottom: 5px;
 }
 
-.schedule .schedule-item .speaker img {
+.schedule .schedule-item .rounded-circle {
   /* height: 100%; */
   margin-top: 5px;
   margin-bottom: 5px;
